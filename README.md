@@ -1,8 +1,27 @@
-# React + Vite
+# Frontend Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend website that I built while learning web development. The project was created to practice HTML, CSS, and JavaScript and improve my understanding of building responsive and interactive web pages.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML
+- CSS
+- JavaScript
+
+## Purpose
+
+The main purpose of this project was to:
+
+- Practice frontend development
+- Improve UI design skills
+- Learn responsive layouts
+- Understand basic JavaScript functionality
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the `index.html` file in your browser.
+
+## Author
+
+Ayaan
